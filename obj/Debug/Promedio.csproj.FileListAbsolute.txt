@@ -1,0 +1,10 @@
+C:\Users\DaniD\source\repos\Promedio\Promedio\bin\Debug\Promedio.exe.config
+C:\Users\DaniD\source\repos\Promedio\Promedio\bin\Debug\Promedio.exe
+C:\Users\DaniD\source\repos\Promedio\Promedio\bin\Debug\Promedio.pdb
+C:\Users\DaniD\source\repos\Promedio\Promedio\obj\Debug\Promedio.csproj.AssemblyReference.cache
+C:\Users\DaniD\source\repos\Promedio\Promedio\obj\Debug\Promedio.Form1.resources
+C:\Users\DaniD\source\repos\Promedio\Promedio\obj\Debug\Promedio.Properties.Resources.resources
+C:\Users\DaniD\source\repos\Promedio\Promedio\obj\Debug\Promedio.csproj.GenerateResource.cache
+C:\Users\DaniD\source\repos\Promedio\Promedio\obj\Debug\Promedio.csproj.CoreCompileInputs.cache
+C:\Users\DaniD\source\repos\Promedio\Promedio\obj\Debug\Promedio.exe
+C:\Users\DaniD\source\repos\Promedio\Promedio\obj\Debug\Promedio.pdb
